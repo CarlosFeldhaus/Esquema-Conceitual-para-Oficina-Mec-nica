@@ -30,7 +30,7 @@ Os mecânicos possuem código, nome, endereço e especialidade
 
 Cada OS possui: n°, data de emissão, um valor, status e uma data para conclusão dos trabalhos.
 
-## Modelagem
+## Modelagem:
 
 ![Oficina](https://github.com/user-attachments/assets/349568e9-a851-47a8-a497-2f47bef180cc)
 
@@ -41,5 +41,9 @@ Cada OS possui: n°, data de emissão, um valor, status e uma data para conclus�
 - Na avaliação temos o tipo de serviço a ser executado e a relação das peças e mão de obra com valores pré estabelicidos;
   
 - Após a avaliação é gerada uma ordem de serviço onde os mesmos mecânicos, os quais avaliaram o veículo, executam o serviço;
+
+# Certificado
+
+![MYZ4JKRT-1](https://github.com/user-attachments/assets/56e6e9dd-be71-4e4a-a79d-ce9d95bd52c5)
 
 
