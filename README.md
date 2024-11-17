@@ -1,10 +1,15 @@
-## Esquema Conceitual para Oficina Mecânica
+# Esquema Conceitual para Oficina Mecânica
 
-# Objetivo:
+
+## Objetivo:
 
 Cria o esquema conceitual para o contexto de oficina com base na narrativa fornecida
 
-# Narrativa:
+## Ferramentas utilizadas
+
+MySQL Workbench
+
+## Narrativa:
 
 Sistema de controle e gerenciamento de execução de ordens de serviço em uma oficina mecânica
 
