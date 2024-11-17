@@ -3,11 +3,11 @@
 
 ## Objetivo:
 
-Cria o esquema conceitual para o contexto de oficina com base na narrativa fornecida
+- Cria o esquema conceitual para o contexto de oficina com base na narrativa fornecida
 
 ## Ferramentas utilizadas
 
-MySQL Workbench
+- [MySQL Workbench](https://www.mysql.com/products/workbench/)
 
 ## Narrativa:
 
