@@ -42,7 +42,7 @@ Cada OS possui: n°, data de emissão, um valor, status e uma data para conclus�
   
 - Após a avaliação é gerada uma ordem de serviço onde os mesmos mecânicos, os quais avaliaram o veículo, executam o serviço;
 
-# Certificado
+# Certificado:
 
 ![MYZ4JKRT-1](https://github.com/user-attachments/assets/56e6e9dd-be71-4e4a-a79d-ce9d95bd52c5)
 
