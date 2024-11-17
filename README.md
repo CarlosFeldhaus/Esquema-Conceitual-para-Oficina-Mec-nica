@@ -1,4 +1,4 @@
-## Esquema-Conceitual-para-Oficina-Mec-nica
+## Esquema Conceitual para Oficina Mecânica
 
 # Objetivo:
 
