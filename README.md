@@ -30,3 +30,16 @@ Os mecânicos possuem código, nome, endereço e especialidade
 
 Cada OS possui: n°, data de emissão, um valor, status e uma data para conclusão dos trabalhos.
 
+## Modelagem
+
+![Oficina](https://github.com/user-attachments/assets/349568e9-a851-47a8-a497-2f47bef180cc)
+
+- Clientes podem ser PF ou PJ e podem possuir mais de um veículo;
+  
+- Após o veículo chegar a oficina os mecânicos fazem uma avaliação;
+  
+- Na avaliação temos o tipo de serviço a ser executado e a relação das peças e mão de obra com valores pré estabelicidos;
+  
+- Após a avaliação é gerada uma ordem de serviço onde os mesmos mecânicos, os quais avaliaram o veículo, executam o serviço;
+
+
